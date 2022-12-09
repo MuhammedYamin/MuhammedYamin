@@ -1,0 +1,5 @@
+- 👋 HELLO THERE!
+-  I’m @yamin10
+-  I’m interested in coding and developing applications for Android.
+-  I’m looking to collaborate on code developments & projects etc...
+-  THANK YOU!

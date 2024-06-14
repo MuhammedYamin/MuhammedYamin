@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamin10&label=Profile%20views&color=0e75b6&style=flat" alt="yamin10" /> </p>
 
-- 🔭 I’m currently working on **Medical Store Management**
+- 🔭 I’m currently working on **DC CrowdFunding Web Application**
 
-- 🌱 I’m currently learning **Django, Nodejs**
+- 🌱 I’m currently learning **React, Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

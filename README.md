@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **DC CrowdFunding Web Application**
 
-- 🌱 I’m currently learning **React, Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

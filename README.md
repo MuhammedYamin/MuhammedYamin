@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamin10&label=Profile%20views&color=0e75b6&style=flat" alt="yamin10" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedYamin&show_icons=true&theme=tokyonight" alt="Muhammed's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedYamin&theme=tokyonight" alt="Muhammed's Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedYamin&show_icons=true&theme=tokyonight" alt="Muhammed's Stats" /> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedYamin&theme=tokyonight" alt="Muhammed's Streak" /><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedYamin&layout=compact&theme=tokyonight" />
 </p>
 

@@ -1,17 +1,27 @@
-<h1 align="center">Hi 👋, I'm Muhammed Yamin</h1>
-<h3 align="center">A passionate web developer</h3>
+<h1 align="center">Hi, I'm Muhammed Yamin!</h1>
+<h3 align="center">Building Web & Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamin10&label=Profile%20views&color=0e75b6&style=flat" alt="yamin10" /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedYamin&show_icons=true&theme=tokyonight" alt="Muhammed's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedYamin&theme=tokyonight" alt="Muhammed's Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedYamin&layout=compact&theme=tokyonight" />
+</p>
+
+
+
 
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/m-yamin" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-yamin" height="30" width="40" />
-</a>
-</p>
+  <a href="https://linkedin.com/in/m-yamin" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-yamin" height="30" width="40" />
+  </a>
+  <a href="mailto:muhammedyamin003@gmail.com" target="_blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="38" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
